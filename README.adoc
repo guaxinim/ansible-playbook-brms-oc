@@ -1,4 +1,4 @@
-# Ansible Playbook for FIS with Openshift oc cluster up
+# Ansible Playbook for BRMS with Openshift oc cluster up
 
 ## Preparação (Instalando o Ansible)
 

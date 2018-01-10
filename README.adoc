@@ -15,8 +15,6 @@ yum install ansible
 
 ----
 git clone https://github.com/guaxinim/ansible-playbook-brms-oc
-cp -r ansible-playbook-brms-oc/* ~
-cd ~
 ansible-playbook playbook-brms-openshift.yml -i hosts --ask-become-pass
 ----
 
